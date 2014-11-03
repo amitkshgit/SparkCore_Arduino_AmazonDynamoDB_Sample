@@ -1,4 +1,4 @@
-#include "AmazonDynamoDBClient.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample.h"
 #include "AWSFoundationalTypes.h"
 #include "jsmn.h"
 #include "Utils.h"
