@@ -1,7 +1,7 @@
 {
-    "name": "AmazonDynamoDBClient",
+    "name": "SparkCore_Arduino_AmazonDynamoDB_Sample",
     "version": "0.0.1",
-    "author": "Amit Sharma <amitksh@yahoo.com>",
+    "author": "Jinesh Varia <jvaria@amazon.com>",
     "license": "Choose a license",
     "description": "Amazon DynamoDB Client for Spark Core."
 }
