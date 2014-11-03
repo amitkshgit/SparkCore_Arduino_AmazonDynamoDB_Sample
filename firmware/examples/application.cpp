@@ -1,13 +1,13 @@
 // This #include statement was automatically added by the Spark IDE.
-#include "keys.h"
-#include "AmazonDynamoDBClient.h"
-#include "SparkAWSImplementations.h"
-#include "AWSFoundationalTypes.h"
-#include "AWSClient.h"
-#include "Utils.h"
-#include "DeviceIndependentInterfaces.h"
-#include "sha256.h"
-#include "jsmn.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/keys.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/AmazonDynamoDBClient.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/SparkAWSImplementations.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/AWSFoundationalTypes.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/AWSClient.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/Utils.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/DeviceIndependentInterfaces.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/sha256.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/jsmn.h"
 
 /*
  *
