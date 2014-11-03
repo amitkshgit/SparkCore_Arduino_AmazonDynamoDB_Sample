@@ -1,6 +1,6 @@
 // This #include statement was automatically added by the Spark IDE.
 #include "SparkCore_Arduino_AmazonDynamoDB_Sample/keys.h"
-#include "SparkCore_Arduino_AmazonDynamoDB_Sample/AmazonDynamoDBClient.h"
+#include "SparkCore_Arduino_AmazonDynamoDB_Sample/SparkCore_Arduino_AmazonDynamoDB_Sample.h"
 #include "SparkCore_Arduino_AmazonDynamoDB_Sample/SparkAWSImplementations.h"
 #include "SparkCore_Arduino_AmazonDynamoDB_Sample/AWSFoundationalTypes.h"
 #include "SparkCore_Arduino_AmazonDynamoDB_Sample/AWSClient.h"
